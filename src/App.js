@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 11 for newww changes www
+          Learn React
         </a>
       </header>
     </div>
